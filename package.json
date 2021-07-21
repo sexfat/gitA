@@ -1,0 +1,23 @@
+{
+  "name": "gitA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scriptes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sexfat/gitA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sexfat/gitA/issues"
+  },
+  "homepage": "https://github.com/sexfat/gitA#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
